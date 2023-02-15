@@ -1,0 +1,5 @@
+C:\Users\choua\Desktop\MiniProject\IRemoteSecurity\bin\Debug\IRemoteSecurity.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteSecurity\bin\Debug\IRemoteSecurity.pdb
+C:\Users\choua\Desktop\MiniProject\IRemoteSecurity\obj\Debug\IRemoteSecurity.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteSecurity\obj\Debug\IRemoteSecurity.pdb
+C:\Users\choua\Desktop\MiniProject\IRemoteSecurity\obj\Debug\IRemoteSecurity.csprojResolveAssemblyReference.cache

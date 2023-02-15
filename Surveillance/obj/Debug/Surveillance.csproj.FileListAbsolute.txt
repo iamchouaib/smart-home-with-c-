@@ -1,0 +1,10 @@
+C:\Users\choua\Desktop\MiniProject\Surveillance\bin\Debug\Surveillance.exe.config
+C:\Users\choua\Desktop\MiniProject\Surveillance\bin\Debug\Surveillance.exe
+C:\Users\choua\Desktop\MiniProject\Surveillance\bin\Debug\Surveillance.pdb
+C:\Users\choua\Desktop\MiniProject\Surveillance\bin\Debug\IRemoteServer.dll
+C:\Users\choua\Desktop\MiniProject\Surveillance\bin\Debug\IRemoteSurveillance.dll
+C:\Users\choua\Desktop\MiniProject\Surveillance\bin\Debug\IRemoteServer.pdb
+C:\Users\choua\Desktop\MiniProject\Surveillance\bin\Debug\IRemoteSurveillance.pdb
+C:\Users\choua\Desktop\MiniProject\Surveillance\obj\Debug\Surveillance.csprojResolveAssemblyReference.cache
+C:\Users\choua\Desktop\MiniProject\Surveillance\obj\Debug\Surveillance.exe
+C:\Users\choua\Desktop\MiniProject\Surveillance\obj\Debug\Surveillance.pdb

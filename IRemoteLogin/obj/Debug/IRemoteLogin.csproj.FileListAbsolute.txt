@@ -1,0 +1,6 @@
+C:\Users\choua\Desktop\MiniProject\IRemoteLogin\bin\Debug\IRemoteLogin.exe.config
+C:\Users\choua\Desktop\MiniProject\IRemoteLogin\bin\Debug\IRemoteLogin.exe
+C:\Users\choua\Desktop\MiniProject\IRemoteLogin\bin\Debug\IRemoteLogin.pdb
+C:\Users\choua\Desktop\MiniProject\IRemoteLogin\obj\Debug\IRemoteLogin.csprojResolveAssemblyReference.cache
+C:\Users\choua\Desktop\MiniProject\IRemoteLogin\obj\Debug\IRemoteLogin.exe
+C:\Users\choua\Desktop\MiniProject\IRemoteLogin\obj\Debug\IRemoteLogin.pdb

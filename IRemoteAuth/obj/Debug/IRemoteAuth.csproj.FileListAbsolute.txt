@@ -1,0 +1,7 @@
+C:\Users\choua\Desktop\MiniProject\IRemoteAuth\bin\Debug\IRemoteAuth.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteAuth\bin\Debug\IRemoteAuth.pdb
+C:\Users\choua\Desktop\MiniProject\IRemoteAuth\bin\Debug\IRemoteServer.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteAuth\bin\Debug\IRemoteServer.pdb
+C:\Users\choua\Desktop\MiniProject\IRemoteAuth\obj\Debug\IRemoteAuth.csprojResolveAssemblyReference.cache
+C:\Users\choua\Desktop\MiniProject\IRemoteAuth\obj\Debug\IRemoteAuth.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteAuth\obj\Debug\IRemoteAuth.pdb

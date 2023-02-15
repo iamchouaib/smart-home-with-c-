@@ -1,0 +1,10 @@
+C:\Users\choua\Desktop\MiniProject\SecuritySystem\bin\Debug\SecuritySystem.exe.config
+C:\Users\choua\Desktop\MiniProject\SecuritySystem\bin\Debug\SecuritySystem.exe
+C:\Users\choua\Desktop\MiniProject\SecuritySystem\bin\Debug\SecuritySystem.pdb
+C:\Users\choua\Desktop\MiniProject\SecuritySystem\obj\Debug\SecuritySystem.csprojResolveAssemblyReference.cache
+C:\Users\choua\Desktop\MiniProject\SecuritySystem\obj\Debug\SecuritySystem.exe
+C:\Users\choua\Desktop\MiniProject\SecuritySystem\obj\Debug\SecuritySystem.pdb
+C:\Users\choua\Desktop\MiniProject\SecuritySystem\bin\Debug\IRemoteSecurity.dll
+C:\Users\choua\Desktop\MiniProject\SecuritySystem\bin\Debug\IRemoteServer.dll
+C:\Users\choua\Desktop\MiniProject\SecuritySystem\bin\Debug\IRemoteSecurity.pdb
+C:\Users\choua\Desktop\MiniProject\SecuritySystem\bin\Debug\IRemoteServer.pdb

@@ -1,0 +1,7 @@
+C:\Users\choua\Desktop\MiniProject\ADmin\bin\Debug\ADmin.exe.config
+C:\Users\choua\Desktop\MiniProject\ADmin\bin\Debug\ADmin.exe
+C:\Users\choua\Desktop\MiniProject\ADmin\bin\Debug\ADmin.pdb
+C:\Users\choua\Desktop\MiniProject\ADmin\obj\Debug\ADmin.Properties.Resources.resources
+C:\Users\choua\Desktop\MiniProject\ADmin\obj\Debug\Admin.csproj.GenerateResource.Cache
+C:\Users\choua\Desktop\MiniProject\ADmin\obj\Debug\ADmin.exe
+C:\Users\choua\Desktop\MiniProject\ADmin\obj\Debug\ADmin.pdb

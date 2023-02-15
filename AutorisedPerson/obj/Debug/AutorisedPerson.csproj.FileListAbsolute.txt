@@ -1,0 +1,6 @@
+C:\Users\choua\Desktop\MiniProject\AutorisedPerson\bin\Debug\AutorisedPerson.exe.config
+C:\Users\choua\Desktop\MiniProject\AutorisedPerson\bin\Debug\AutorisedPerson.exe
+C:\Users\choua\Desktop\MiniProject\AutorisedPerson\bin\Debug\AutorisedPerson.pdb
+C:\Users\choua\Desktop\MiniProject\AutorisedPerson\obj\Debug\AutorisedPerson.csprojResolveAssemblyReference.cache
+C:\Users\choua\Desktop\MiniProject\AutorisedPerson\obj\Debug\AutorisedPerson.exe
+C:\Users\choua\Desktop\MiniProject\AutorisedPerson\obj\Debug\AutorisedPerson.pdb

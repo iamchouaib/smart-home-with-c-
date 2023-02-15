@@ -1,0 +1,15 @@
+C:\Users\choua\Desktop\MiniProject\person\obj\Debug\person.csprojResolveAssemblyReference.cache
+C:\Users\choua\Desktop\MiniProject\person\obj\Debug\person.Form1.resources
+C:\Users\choua\Desktop\MiniProject\person\obj\Debug\person.Properties.Resources.resources
+C:\Users\choua\Desktop\MiniProject\person\obj\Debug\person.csproj.GenerateResource.Cache
+C:\Users\choua\Desktop\MiniProject\person\bin\Debug\person.exe.config
+C:\Users\choua\Desktop\MiniProject\person\bin\Debug\person.exe
+C:\Users\choua\Desktop\MiniProject\person\bin\Debug\person.pdb
+C:\Users\choua\Desktop\MiniProject\person\bin\Debug\IRemoteServer.dll
+C:\Users\choua\Desktop\MiniProject\person\bin\Debug\IRemoteSurveillance.dll
+C:\Users\choua\Desktop\MiniProject\person\bin\Debug\IRemoteServer.pdb
+C:\Users\choua\Desktop\MiniProject\person\bin\Debug\IRemoteSurveillance.pdb
+C:\Users\choua\Desktop\MiniProject\person\obj\Debug\person.exe
+C:\Users\choua\Desktop\MiniProject\person\obj\Debug\person.pdb
+C:\Users\choua\Desktop\MiniProject\person\bin\Debug\IRemoteSecurity.dll
+C:\Users\choua\Desktop\MiniProject\person\bin\Debug\IRemoteSecurity.pdb

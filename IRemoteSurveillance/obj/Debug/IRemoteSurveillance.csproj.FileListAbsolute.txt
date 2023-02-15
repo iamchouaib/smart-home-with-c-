@@ -1,0 +1,4 @@
+C:\Users\choua\Desktop\MiniProject\IRemoteSurveillance\bin\Debug\IRemoteSurveillance.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteSurveillance\bin\Debug\IRemoteSurveillance.pdb
+C:\Users\choua\Desktop\MiniProject\IRemoteSurveillance\obj\Debug\IRemoteSurveillance.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteSurveillance\obj\Debug\IRemoteSurveillance.pdb

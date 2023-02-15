@@ -1,0 +1,14 @@
+c:\users\nadhi\onedrive\documents\visual studio 2012\Projects\Miniroject\IRemoteServer\obj\Debug\IRemoteServer.csprojResolveAssemblyReference.cache
+c:\users\nadhi\onedrive\documents\visual studio 2012\Projects\Miniroject\IRemoteServer\bin\Debug\IRemoteServer.dll.config
+c:\users\nadhi\onedrive\documents\visual studio 2012\Projects\Miniroject\IRemoteServer\bin\Debug\IRemoteServer.dll
+c:\users\nadhi\onedrive\documents\visual studio 2012\Projects\Miniroject\IRemoteServer\bin\Debug\IRemoteServer.pdb
+c:\users\nadhi\onedrive\documents\visual studio 2012\Projects\Miniroject\IRemoteServer\bin\Debug\MySql.Data.dll
+c:\users\nadhi\onedrive\documents\visual studio 2012\Projects\Miniroject\IRemoteServer\obj\Debug\IRemoteServer.dll
+c:\users\nadhi\onedrive\documents\visual studio 2012\Projects\Miniroject\IRemoteServer\obj\Debug\IRemoteServer.pdb
+C:\Users\choua\Desktop\MiniProject\IRemoteServer\bin\Debug\IRemoteServer.dll.config
+C:\Users\choua\Desktop\MiniProject\IRemoteServer\bin\Debug\IRemoteServer.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteServer\bin\Debug\IRemoteServer.pdb
+C:\Users\choua\Desktop\MiniProject\IRemoteServer\bin\Debug\MySql.Data.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteServer\obj\Debug\IRemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\choua\Desktop\MiniProject\IRemoteServer\obj\Debug\IRemoteServer.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteServer\obj\Debug\IRemoteServer.pdb

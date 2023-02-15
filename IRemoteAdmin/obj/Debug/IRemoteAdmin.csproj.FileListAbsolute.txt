@@ -1,0 +1,5 @@
+C:\Users\choua\Desktop\MiniProject\IRemoteAdmin\bin\Debug\IRemoteAdmin.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteAdmin\bin\Debug\IRemoteAdmin.pdb
+C:\Users\choua\Desktop\MiniProject\IRemoteAdmin\obj\Debug\IRemoteAdmin.csprojResolveAssemblyReference.cache
+C:\Users\choua\Desktop\MiniProject\IRemoteAdmin\obj\Debug\IRemoteAdmin.dll
+C:\Users\choua\Desktop\MiniProject\IRemoteAdmin\obj\Debug\IRemoteAdmin.pdb

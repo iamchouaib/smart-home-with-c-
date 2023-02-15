@@ -1,0 +1,6 @@
+C:\Users\choua\Desktop\MiniProject\SurveillanceSystem\bin\Debug\SurveillanceSystem.exe.config
+C:\Users\choua\Desktop\MiniProject\SurveillanceSystem\bin\Debug\SurveillanceSystem.exe
+C:\Users\choua\Desktop\MiniProject\SurveillanceSystem\bin\Debug\SurveillanceSystem.pdb
+C:\Users\choua\Desktop\MiniProject\SurveillanceSystem\obj\Debug\SurveillanceSystem.csprojResolveAssemblyReference.cache
+C:\Users\choua\Desktop\MiniProject\SurveillanceSystem\obj\Debug\SurveillanceSystem.exe
+C:\Users\choua\Desktop\MiniProject\SurveillanceSystem\obj\Debug\SurveillanceSystem.pdb
